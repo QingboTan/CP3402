@@ -19,14 +19,14 @@ This week I decided that my startup theme would be Mental Health Support. After 
 In total, I probably spent seven hours on Practical this week.
 
 3.Development Journal
-    Page 1: Home
-    Objective:
-    Our goal for the homepage is to create an inviting and informative space that welcomes visitors and provides a comprehensive overview of the mental health support services offered.
+Page 1: Home
+Objective:
+Our goal for the homepage is to create an inviting and informative space that welcomes visitors and provides a comprehensive overview of the mental health support services offered.
 
-    Page 2: Services
-    Objective:
-    This page aims to provide detailed information about the various mental health services offered, enabling visitors to make informed decisions about their needs.
+Page 2: Services
+Objective:
+This page aims to provide detailed information about the various mental health services offered, enabling visitors to make informed decisions about their needs.
 
-    Page 3: Contact
-    Objective:
-    To facilitate easy communication between visitors and the support team, offering multiple contact options and encouraging inquiries.
+Page 3: Contact
+Objective:
+To facilitate easy communication between visitors and the support team, offering multiple contact options and encouraging inquiries.
