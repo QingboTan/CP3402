@@ -1,0 +1,31 @@
+// Component styles
+header {
+    background-color: $primary-color;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+  
+    h1 {
+      margin: 0;
+    }
+  }
+  
+  .intro {
+    @include border-radius(10px);
+    @include box-shadow(0 4px 8px rgba(0, 0, 0, 0.1));
+    padding: 1em;
+    margin: 1em;
+    background-color: #fff;
+    color: $secondary-color;
+  }
+  
+  footer {
+    background-color: $primary-color;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+  }
+  

@@ -1,0 +1,31 @@
+Learning journal
+
+CP3402 week 8 Learning journal
+
+1.Learning Activities & Resources
+The main activity this week is to Use some form of the scientific method with a theory and test. In the process of learning, I saw some videoes:
+https://www.youtube.com/watch?v=2dzzMTPR6Ls
+
+
+https://www.youtube.com/watch?v=8uYSLxJbPEY
+
+
+https://www.youtube.com/watch?v=LdTWGvP1k2Q
+
+Theory: I hypothesize that incorporating interactive coding exercises into my learning routine will enhance my understanding of content management systems (CMS) and PHP, compared to traditional passive learning methods.
+
+Test:
+Select a specific topic in CMS or PHP for the experiment.
+For the first phase, use traditional learning methods (reading documentation, watching tutorials).
+For the second phase, engage in interactive coding exercises related to the chosen topic.
+Measure the time spent, level of engagement, and understanding for each phase.
+Compare the results to determine the effectiveness of each method.
+
+2.Estimated Hours
+Approximately 5 hours, Because in addition to completing Assignment 2, the LJ to be submitted this week only requires research, comparison and summary of learning methods.
+
+3.Content Insights 
+After conducting the experiment, I observed a notable difference in my understanding and retention of the topic when incorporating interactive coding exercises. The hands-on practice allowed for a more profound comprehension of the concepts, and the active engagement kept me motivated throughout the learning process. This experiment highlights the significance of interactive and practical learning approaches, especially in technical subjects like CMS and PHP. I will continue to integrate coding exercises into my learning routine for a more effective and enjoyable learning experience.
+
+4.Career/Employability/Learning Insights 
+Engaging in the learning experiment provided valuable insights into the intersection of career development, employability, and effective learning strategies. The experiment reinforced the importance of hands-on skills in the field of content management systems (CMS) and PHP, contributing significantly to practical expertise. This hands-on approach enhances employability, showcasing the ability to apply knowledge in real-world scenarios—a sought-after skill in the tech industry. The experiment highlighted the effectiveness of a balanced learning approach, combining theoretical knowledge with interactive activities, essential for continuous professional development. Additionally, it emphasized the significance of adaptability, technological agility, and motivation for sustained career growth. The integration of interactive and practical learning methods will remain a cornerstone of my approach, ensuring competitiveness in the dynamic landscape of technology and content management.
